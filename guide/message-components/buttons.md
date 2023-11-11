@@ -63,7 +63,7 @@ module.exports = {
 			.setLabel('Cancel')
 			.setStyle(ButtonStyle.Secondary);
 
-		const row = new ActionRowBuilder()
+		const row = new ActionRowBuilder<ButtonBuilder>()
 			.addComponents(cancel, confirm);
 
 		await interaction.reply({
