@@ -8,7 +8,7 @@ Este repositório é um **fork**. Ele é mantido na conta como referência técn
 
 ## Stack identificada
 
-Docker, JavaScript, KSP, MongoDB, Node.js, Redis, TypeScript
+JavaScript, Node.js, TypeScript
 
 ## Evidências observadas
 
